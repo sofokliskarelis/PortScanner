@@ -1,7 +1,9 @@
 # PortScanner
-<p>The port scanning is a very useful tool for pentestesters and cybersecurity proffessionals.The most of the times you will find yourself using other well known
-automated scanners,but there are times that when you conduct a penetration test to a client he will ask you to not to use automated scanners for several reasons.
-So i created this project to act as a base or as is for open ports scanner.You can easily undarstand the code as it is only a small amount of lines and you can change it as you wish to complete your task.</p>
+<p>As a pentester, you may find yourself in a situation where you are asked to not use automated scanners. In these cases, port scanning by hand can be very useful. PortScanner is a tool that can help with this process.
+
+PortScanner is written in Python and makes use of the socket library. The code is relatively simple and easy to understand. It can be easily modified to meet your needs.
+
+To use PortScanner, simply specify the hostname or IP address of the target system and the ports that you wish to scan. PortScanner will then attempt to connect to each port on the target system in turn and report whether it was successful or not.</p>
 
 #How to run it
 To run the PortScanner :
