@@ -16,4 +16,9 @@ To run the PortScanner :
 
 <li>WAIT FOR THE RESULTS</li>
 </ul>
+DISCLAIMER
+<b>PortScanner created by Sofoklis Karelis. is developed with the intension of using this tool only for educational purpose.</b>
+
 If you need help send me an email at <b>sofokliskarelis.dev@pm.me</b>
+
+
